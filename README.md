@@ -1,6 +1,5 @@
 # Task-1
-# 🫀 Heart Disease Dataset - Data Cleaning & Preprocessing (AI & ML Internship Task 1)
-
+# 🫀 Heart Disease Dataset - Data Cleaning & Preprocessing
 This repository contains the code and process, which focuses on data cleaning and preprocessing using a real-world dataset. The dataset used for this task is the [Heart Disease Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction).
 
 ---
